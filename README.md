@@ -114,3 +114,9 @@
 
 - if you have branch than
   - git push origin branch_name -> every time write for push your code into remote repository (github)
+
+# Chacking how many branches you have into your current repo
+
+    - git branch
+    OR
+    - git branch -a
