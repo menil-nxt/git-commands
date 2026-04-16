@@ -18,20 +18,20 @@
 - git config --global user.name "Your Name"
 - git config --global user.email "Your Email-id "
 
-- check for created your global username and email-id
+- check for created your global username and email-id is created ot not.
   - git config --list
 
-# if you know or need help for any command
+# if you don't know or need help for any command
 
-- git help command_name(ex :- config)
-- git add --help
+    - git help command_name(ex :- config)
+    - git add --help
 
-- if you don't know any command how that command work for that help is guide you how that command is work and what you do with that command and how to write that command
+- if you don't know any command how that command work for that help is guide you to how that command is work and what you do with that command and how to write that command(syntax)
 
 # cloning a remote repository
 
-- git clone <repository url>
-- git clone <link of that repository>
+    - git clone <repository url>
+    - git clone <link of that repository>
 
 - clone you repository with your project
 
