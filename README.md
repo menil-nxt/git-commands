@@ -120,3 +120,21 @@
     - git branch
     OR
     - git branch -a
+# How we can stash any changes
+
+# Why we use stash in git -> You're mid-feature, your teammate asks for a hotfix on main — you can't commit half-done work. Stash it!
+
+# Save changes to stash
+
+    - git stash
+
+    ==> or with a descriptive message (recommended)
+    - git stash save "WIP: login form validation"
+
+# View all stashes
+
+    - git stash list
+    Output:
+    stash@{0}: WIP: login form validation
+    stash@{1}: WIP: navbar styling
+    stash@{2}: On main: quick experiment
